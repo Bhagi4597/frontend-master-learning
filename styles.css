@@ -1,0 +1,45 @@
+/* Reset default browser margin */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+/* Style header */
+header {
+  background: #333;
+  color: white;
+  padding: 10px 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+/* Hero section */
+.hero {
+  padding: 40px;
+  background: #e0f7fa;
+  border-radius: 8px;
+}
+
+/* Features list */
+#features ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 14px;
+  color: #555;
+}
